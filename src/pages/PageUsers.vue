@@ -52,7 +52,12 @@ export default {
       id: 4,
       name: 'Gibongo',
        online: true
-      } 
+      },
+       {
+      id: 5,
+      name: 'Yuri Rego',
+       online: true
+      }  
     ]
    }
  }

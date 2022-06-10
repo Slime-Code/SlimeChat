@@ -11,6 +11,14 @@
         <q-toolbar-title class="absolute-center">
           {{title}}
         </q-toolbar-title>
+        <q-btn
+            to="/auth"
+            class="absolute-right q-pr-sm"
+            no-caps
+            flat 
+            dense 
+             label="Login"
+            icon="account_circle" />
       </q-toolbar>
     </q-header>
 
